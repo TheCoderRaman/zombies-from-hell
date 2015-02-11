@@ -213,7 +213,6 @@ FakesAssemblies/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -225,6 +224,5 @@ FakesAssemblies/
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
